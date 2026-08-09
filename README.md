@@ -1,14 +1,18 @@
-### Komunitas — A community fund where the vote is the disbursement
+# Hi, I'm Nguyen Van Luong
 
-The vote does not produce a recommendation. It produces a payment.
+Full-stack developer building on the **Stellar** network — smart contracts in Soroban, apps in modern TypeScript.
 
-Members contribute into a shared fund, then propose and vote on where it goes. The threshold is enforced in Rust — `2 * yes > member_count` — and a proposal that clears it can be disbursed by anyone, not just an admin.
+### Featured project
 
-|  |  |
-|---|---|
-| Live | [komunitas-rho.vercel.app](https://komunitas-rho.vercel.app) |
-| Code | [luong0928472-maker/Komunitas](https://github.com/luong0928472-maker/Komunitas) |
-| Stack | Soroban (Rust) · Next.js · TypeScript |
-| Contract | [`CDNEHSQ5PW…`](https://stellar.expert/explorer/public/contract/CDNEHSQ5PWYC6AXNA4PIEAXCEUNUSVDAOKIVEBEHTRY2SEUJANSMWFVR) |
+**[Komunitas](https://github.com/luong0928472-maker/Komunitas)** — a Stellar/Soroban application: on-chain logic, a real testnet transaction, and a typed web frontend.
 
-Keeping the admin out of the release path was the whole point. If a treasurer can veto a passed vote, it was never governance.
+### Tech
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-7D00FF?logo=stellar&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+
+### Stats
+
+![luong0928472-maker's GitHub stats](https://github-readme-stats.vercel.app/api?username=luong0928472-maker&show_icons=true&hide_border=true)
